@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--BASE-->
+    <color name="sampleGreen">#FF27AE60</color>
+    <color name="sampleOrange">#FFFA9B56</color>
+    <color name="sampleRed">#FFF86262</color>
+    <color name="sampleBlue">#FF5695DF</color>
+    <color name="sampleOffblack">#FF232830</color>
+    <color name="sampleBgDark">#FF293240</color>
+    <color name="sampleBg">#FF313B4C</color>
+    <color name="sampleBgLight">#FF394353</color>
+    <color name="sampleGray">#FF79879B</color>
+    <color name="sampleWhite">#FFFFFFFF</color>
+    <color name="sampleOffwhite">#FFCBCED2</color>
+    <color name="sampleGrayLight">#FFD7E0EB</color>
+    <color name="sampleWhite10Percent">#1AFFFFFF</color>
+    <color name="sampleDivider">#19E9EDF3</color>
+    <color name="sampleStatusBg">#FF4B5463</color>
+    <!--/BASE-->
+
+    <color name="colorPrimary">@color/sampleGreen</color>
+    <color name="colorPrimaryDark">@color/sampleBgDark</color>
+    <color name="colorAccent">@color/sampleWhite</color>
+    <color name="colorOnPrimary">@color/sampleGreen</color>
+    <color name="colorOnSurface">@color/sampleBgLight</color>
+    <color name="colorOnSecondary">@color/sampleWhite</color>
+    <color name="colorBackground">@color/sampleBg</color>
+    <color name="textColor">@color/sampleWhite</color>
+</resources>

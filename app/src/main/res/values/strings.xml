@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="landing">Landing</string>
+    <string name="android_devs">Android devs</string>
+    <string name="ios_devs">iOS devs</string>
+    <string name="landing_title">The mobile devs</string>
+</resources>

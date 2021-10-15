@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius">4dp</dimen>
+    <dimen name="match_constraints">0dp</dimen>
+    <dimen name="margin_xs">8dp</dimen>
+    <dimen name="margin_s">16dp</dimen>
+    <dimen name="margin_m">24dp</dimen>
+    <dimen name="margin_l">32dp</dimen>
+</resources>
